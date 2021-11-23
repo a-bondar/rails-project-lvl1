@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = 'Hexlet educational ruby project: simple form'
   spec.homepage = 'https://github.com/a-bondar/rails-project-lvl1'
-  spec.required_ruby_version = '>= 2.6.0'
+  spec.required_ruby_version = '>= 2.5.0'
 
   spec.metadata['allowed_push_host'] = 'https://rubygems.org'
 
